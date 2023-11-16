@@ -12,6 +12,7 @@ public class Bar {
 		numDrinks = 0;
 		orderId = numOrders;
 		numOrders++;
+		//hello
 	}
 	
 	public Bar (Scanner scnr)
